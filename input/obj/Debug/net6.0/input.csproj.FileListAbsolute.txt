@@ -1,0 +1,17 @@
+C:\Users\ADI\source\repos\input\bin\Debug\net6.0\input.exe
+C:\Users\ADI\source\repos\input\bin\Debug\net6.0\input.deps.json
+C:\Users\ADI\source\repos\input\bin\Debug\net6.0\input.runtimeconfig.json
+C:\Users\ADI\source\repos\input\bin\Debug\net6.0\input.dll
+C:\Users\ADI\source\repos\input\bin\Debug\net6.0\input.pdb
+C:\Users\ADI\source\repos\input\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.csproj.AssemblyReference.cache
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.AssemblyInfoInputs.cache
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.AssemblyInfo.cs
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.csproj.CoreCompileInputs.cache
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.csproj.CopyComplete
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.dll
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\refint\input.dll
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.pdb
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\input.genruntimeconfig.cache
+C:\Users\ADI\source\repos\input\obj\Debug\net6.0\ref\input.dll

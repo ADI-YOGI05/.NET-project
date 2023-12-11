@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOju6F5B44NcdPU+au2LQ/feucUxuZutCaf/fPImUP3LfLq6gwI8LlfkN2fHmTPiiRggctFHZXVO6ceQLtWiWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADI\\source\\repos\\input\\input.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADI\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
