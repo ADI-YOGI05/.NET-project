@@ -1,0 +1,538 @@
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\appsettings.Development.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\appsettings.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\LibraryManagement.staticwebassets.runtime.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Humanizer.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\MessagePack.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Build.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.Common.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.RazorAssemblyInfo.cache
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.RazorAssemblyInfo.cs
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.LibraryManagement.props
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagement.props
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LibraryManagement.props
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets.pack.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets.build.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\staticwebassets.development.json
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\scopedcss\bundle\LibraryManagement.styles.css
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\scopedcss\projectbundle\LibraryManagement.bundle.scp.css
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CopyComplete
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Azure.Core.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Azure.Identity.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Memory.Data.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\cdac\Modul 7 -.NET\Console Project\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\appsettings.Development.json
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\appsettings.json
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\LibraryManagement.staticwebassets.runtime.json
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Azure.Core.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Azure.Identity.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Humanizer.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\MessagePack.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Build.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.Common.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Memory.Data.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\LibraryManagement (3)\LibraryManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.RazorAssemblyInfo.cache
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.RazorAssemblyInfo.cs
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.LibraryManagement.props
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagement.props
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LibraryManagement.props
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets.pack.json
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets.build.json
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\staticwebassets.development.json
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\scopedcss\bundle\LibraryManagement.styles.css
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\scopedcss\projectbundle\LibraryManagement.bundle.scp.css
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CopyComplete
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+F:\LibraryManagement (3)\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll

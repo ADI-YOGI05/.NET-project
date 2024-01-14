@@ -1,0 +1,66 @@
+﻿@model IEnumerable<LibraryManagement.Models.Categories>
+
+@{
+    ViewData["Title"] = "View All Books By Category";
+}
+
+<h1>GetAllBooksByType</h1>
+
+<p>
+    <a asp-action="Index">Update Books</a>
+</p>
+@foreach (var cat in Model)
+{
+    
+    List<Books> lst = Books.GetAllBooksByCategory(cat.Category);
+    @if (lst.Count != 0)
+    {
+        <span class="px-2" style="font-weight:bold;text-decoration:underline">Category: @cat.CategoryName</span>
+        <table class="table table-bordered">
+            <thead class="thead-light">
+                <tr>
+                    <th>
+                        Book ID
+                    </th>
+                    <th>
+                        Title
+                    </th>
+                    <th>
+                        Author
+                    </th>
+                    <th>
+                        Category
+                    </th>
+                    
+                </tr>
+            </thead>
+            @foreach (var book in lst)
+            {
+                <tbody>
+
+                    <tr>
+                        <td style="width:150px">
+                            @book.BookId
+                        </td>
+                        <td style="width:300px">
+                            @book.Title
+                        </td>
+                        <td style="width:300px">
+                            @book.Author
+                        </td>
+                        <td style="width:300px">
+                            @book.Category.CategoryName
+                        </td>
+                        @*<td>
+                                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                            </td>*@
+                    </tr>
+
+                </tbody>
+            }
+        </table>
+        }
+    
+}
